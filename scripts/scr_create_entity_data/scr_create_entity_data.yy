@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_create_entity_data",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_create_entity_data",
+  "parent":{
+    "name":"Data",
+    "path":"folders/Scripts/Data.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
