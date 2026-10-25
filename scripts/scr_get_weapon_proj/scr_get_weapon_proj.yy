@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_get_weapon_proj",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_get_weapon_proj",
+  "parent":{
+    "name":"Get",
+    "path":"folders/Scripts/Data/Get.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_weapon_vars",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_weapon_vars",
+  "parent":{
+    "name":"Variables",
+    "path":"folders/Scripts/Data/Variables.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

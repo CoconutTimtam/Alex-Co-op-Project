@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_create_projectile",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_create_projectile",
+  "parent":{
+    "name":"Creation",
+    "path":"folders/Scripts/Creation.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

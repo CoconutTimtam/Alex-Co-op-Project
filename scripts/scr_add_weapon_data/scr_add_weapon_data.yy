@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_add_weapon_data",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_add_weapon_data",
+  "parent":{
+    "name":"Add",
+    "path":"folders/Scripts/Data/Add.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
