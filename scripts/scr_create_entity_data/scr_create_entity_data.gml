@@ -8,6 +8,7 @@ function scr_create_entity_data(){
 		i = scr_add_entity_data(
 		
 		i,
+		obj_player,
 		100,
 		5
 
@@ -17,6 +18,7 @@ function scr_create_entity_data(){
 		i = scr_add_entity_data(
 		
 		i,
+		obj_spider_bot,
 		50,
 		8
 

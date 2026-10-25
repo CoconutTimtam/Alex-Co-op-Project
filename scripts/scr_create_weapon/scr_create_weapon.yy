@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_create_weapon",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_create_weapon",
+  "parent":{
+    "name":"Creation",
+    "path":"folders/Scripts/Creation.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
