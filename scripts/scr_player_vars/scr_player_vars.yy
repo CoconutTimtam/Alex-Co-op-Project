@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_player_vars",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_player_vars",
+  "parent":{
+    "name":"Player",
+    "path":"folders/Scripts/Data/Player.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
