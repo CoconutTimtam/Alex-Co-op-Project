@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_generic_investigating",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_generic_investigating",
+  "parent":{
+    "name":"States",
+    "path":"folders/Scripts/AI/States.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
