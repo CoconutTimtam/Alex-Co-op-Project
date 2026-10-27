@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_spider_bot_vars",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_spider_bot_vars",
+  "parent":{
+    "name":"Enemies",
+    "path":"folders/Scripts/Data/Entity/Enemies.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

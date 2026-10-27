@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"enum_entity_state",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"enum_entity_state",
+  "parent":{
+    "name":"Enum",
+    "path":"folders/Enum.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

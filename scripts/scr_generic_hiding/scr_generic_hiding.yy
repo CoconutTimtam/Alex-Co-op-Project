@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_generic_hiding",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_generic_hiding",
+  "parent":{
+    "name":"States",
+    "path":"folders/Scripts/AI/States.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
